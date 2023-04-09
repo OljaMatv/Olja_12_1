@@ -1,2 +1,2 @@
+# Проект для знакомства с pytest
 Olja
-olja test
